@@ -165,7 +165,7 @@ if &background == 'dark'
       hi! link ALEStyleWarningSign ALEWarningSign
       hi! link ALEStyleWarningSignLineNr ALEWarningSignLineNr
       hi! link CocMenuSel PmenuSel
-      hi! link diffAdded Statement
+      hi! link diffAdded Added
       hi! link diffLine Identifier
       hi! link diffRemoved Removed
       hi! link gitcommitDiscarded gitcommitComment
@@ -446,7 +446,7 @@ if &background == 'dark'
       hi! link ALEStyleWarningSign ALEWarningSign
       hi! link ALEStyleWarningSignLineNr ALEWarningSignLineNr
       hi! link CocMenuSel PmenuSel
-      hi! link diffAdded Statement
+      hi! link diffAdded Added
       hi! link diffLine Identifier
       hi! link diffRemoved Removed
       hi! link gitcommitDiscarded gitcommitComment
@@ -796,7 +796,7 @@ if &background == 'dark'
       hi! link ALEStyleWarningSign ALEWarningSign
       hi! link ALEStyleWarningSignLineNr ALEWarningSignLineNr
       hi! link CocMenuSel PmenuSel
-      hi! link diffAdded Statement
+      hi! link diffAdded Added
       hi! link diffLine Identifier
       hi! link diffRemoved Removed
       hi! link gitcommitDiscarded gitcommitComment
@@ -1295,7 +1295,7 @@ if &background == 'light'
       hi! link ALEStyleWarningSign ALEWarningSign
       hi! link ALEStyleWarningSignLineNr ALEWarningSignLineNr
       hi! link CocMenuSel PmenuSel
-      hi! link diffAdded Statement
+      hi! link diffAdded Added
       hi! link diffLine Identifier
       hi! link diffRemoved Removed
       hi! link gitcommitDiscarded gitcommitComment
@@ -1592,7 +1592,7 @@ if &background == 'light'
       hi! link ALEStyleWarningSign ALEWarningSign
       hi! link ALEStyleWarningSignLineNr ALEWarningSignLineNr
       hi! link CocMenuSel PmenuSel
-      hi! link diffAdded Statement
+      hi! link diffAdded Added
       hi! link diffLine Identifier
       hi! link diffRemoved Removed
       hi! link gitcommitDiscarded gitcommitComment
@@ -1958,7 +1958,7 @@ if &background == 'light'
       hi! link ALEStyleWarningSign ALEWarningSign
       hi! link ALEStyleWarningSignLineNr ALEWarningSignLineNr
       hi! link CocMenuSel PmenuSel
-      hi! link diffAdded Statement
+      hi! link diffAdded Added
       hi! link diffLine Identifier
       hi! link diffRemoved Removed
       hi! link gitcommitDiscarded gitcommitComment
