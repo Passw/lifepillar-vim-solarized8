@@ -45,9 +45,11 @@ vimGroup          /gui/256/16 +extra 1     blue              none              b
 ; }}}
 ; diff {{{
 diffAdded         -> omit
+diffRemoved       -> omit
 diffLine          -> omit
 
 diffAdded         /gui/256/16 +extra 1  -> Statement
+diffRemoved       /gui/256/16 +extra 1  -> Removed
 diffLine          /gui/256/16 +extra 1  -> Identifier
 ; }}}
 ; git {{{
